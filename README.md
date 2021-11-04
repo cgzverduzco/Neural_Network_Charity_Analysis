@@ -48,3 +48,7 @@ We try just with adding more neurons, but doesn't work.
 # Summary
 
 It is recommended to have more data to generate a more accurate model.
+
+## Other model recommendations
+
+I personally would use a decision tree for solving the classification problem. Because we have different features of each company and with this, we can create a guide that told us which are nearer to the success or to the fail. 
