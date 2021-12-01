@@ -1,5 +1,5 @@
 # Neural_Network_Charity_Analysis
-Bootcamp Module 19 Neural analysis
+Neural analysis
 
 # Overview
 It seeks to help Alphabet Soup’s to define which can be the cases of success in the organizations that financially support and which have risk
